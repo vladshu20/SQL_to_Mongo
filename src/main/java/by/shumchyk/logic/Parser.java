@@ -1,4 +1,4 @@
-package logic;
+package by.shumchyk.logic;
 
 import java.util.*;
 

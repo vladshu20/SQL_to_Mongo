@@ -1,5 +1,5 @@
-import logic.Parser;
-import logic.Translator;
+import by.shumchyk.logic.Parser;
+import by.shumchyk.logic.Translator;
 
 import java.util.List;
 import java.util.Map;

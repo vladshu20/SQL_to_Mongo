@@ -1,9 +1,7 @@
-package logic;
+package by.shumchyk.logic;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.SortedMap;
 
 public class Translator {
     public static void translator(Map<String, List<String>> cmdSQL) {
